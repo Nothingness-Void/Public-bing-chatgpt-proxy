@@ -16,7 +16,7 @@ Bing接入点如下
 Bing接入点也可直接访问
 
 `https://ai.nothingnessvoid.tech/`
-`https://ai.nothingnessvoid.tech/`
+`https://bing.nvoid.live/`
 
 直接访问就是不用代理的Bing镜像站
 效果如下
