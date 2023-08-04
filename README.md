@@ -29,4 +29,4 @@ Openai端搭建项目为: https://github.com/dqzboy/ChatGPT-Proxy
 ```
 当然也可以通过我库中的对应文件夹里面的docker-compose进行一键部署
 
-Bing:
+[Bing](https://github.com/Nothingness-Void/Public-bing-chatgpt-proxy/blob/main/go-porxy-bingai/docker-compose.yml)
