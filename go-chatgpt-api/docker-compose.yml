@@ -14,7 +14,7 @@ services:
     networks:
       - caddy
     labels:
-      caddy: fakeopen.nvoid.games # 填写你的 chatgptwebshare 预先解析到 ip 上的域名
+      caddy: 域名.com # 填写你预先解析到服务器 ip 上的域名
       caddy.reverse_proxy: "{{upstreams 8080}}"
       
   caddy:
