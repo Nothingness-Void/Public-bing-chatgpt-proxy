@@ -13,6 +13,9 @@ Bing接入点如下
 `wss://ai.nothingnessvoid.tech/sydney/ChatHub`
 `wss://bing.nvoid.live/sydney/ChatHub`
 
+Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值
+推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大
+
 Bing接入点也可直接访问
 
 `https://ai.nothingnessvoid.tech/`
