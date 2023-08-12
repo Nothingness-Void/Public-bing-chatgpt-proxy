@@ -10,8 +10,13 @@ OpenAI接入点如下
 
 Bing接入点如下
 
-`wss://ai.nothingnessvoid.tech/sydney/ChatHub`
+`wss://ai.nothingnessvoid.tech/sydney/ChatHub` 暂时挂了，过几天看看能不呢修
+
 `wss://bing.nvoid.live/sydney/ChatHub`
+
+`wss://sgp.nvoid.live/sydney/ChatHub`
+
+
 
 Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值
 推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大
