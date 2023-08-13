@@ -18,13 +18,13 @@
 
 
 
-## Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值、
+## Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值
 
 
-**推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大**
+<br>**推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大**
 
 
-**如果出现报错，请先进入Bing官方页面，登录后进行对话，会弹出验证页面，通过验证后再复制cookie**
+<br>如果出现报错，请先进入Bing官方页面，登录后进行对话，会弹出验证页面，**通过验证能正常聊天后再复制cookie**
 
 ![image](https://github.com/Nothingness-Void/Public-bing-chatgpt-proxy/assets/55913486/b70f24fe-26cd-423c-a903-e7a7ef722778)
 
