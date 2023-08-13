@@ -4,7 +4,7 @@
 ### OpenAI接入点如下
 
 `https://fakeopen.nvoid.live/chatgpt/backend-api/`
-`https://fakeopen.nvoid.games/chatgpt/backend-api/`
+<br>`https://fakeopen.nvoid.games/chatgpt/backend-api/`
 
 直接复制，不要改东西
 
@@ -37,8 +37,8 @@
 
 Bing接入点也可直接访问
 
-`https://ai.nothingnessvoid.tech/`
-`https://bing.nvoid.live/`
+`https://ai.nothingnessvoid.tech/`  
+<br>`https://bing.nvoid.live/`
 
 直接访问就是不用代理的Bing镜像站
 效果如下
