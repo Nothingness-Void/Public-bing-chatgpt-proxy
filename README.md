@@ -1,14 +1,14 @@
-# Public-bing-chatgpt-proxy
-公用的bing/chatgpt接入点
+### Public-bing-chatgpt-proxy
+## 公用的bing/chatgpt接入点
 
-OpenAI接入点如下
+# OpenAI接入点如下
 
 `https://fakeopen.nvoid.live/chatgpt/backend-api/`
 `https://fakeopen.nvoid.games/chatgpt/backend-api/`
 
 直接复制，不要改东西
 
-Bing接入点如下
+# Bing接入点如下
 
 `wss://ai.nothingnessvoid.tech/sydney/ChatHub` 暂时挂了，过几天看看能不呢修
 
@@ -18,8 +18,18 @@ Bing接入点如下
 
 
 
-Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值
-推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大
+## Bing接入时cookie一定要包含 `RwBf` 的值和 `KievRPSSecAuth` 的值
+## 推荐先退出登录后再重新登录，然后再复制cookie进入配置文件，这样能用的概率大
+## 如果出现报错，请先进入Bing官方页面，登录后进行对话，会弹出验证页面，通过验证后再复制cookie
+
+![image](https://github.com/Nothingness-Void/Public-bing-chatgpt-proxy/assets/55913486/b70f24fe-26cd-423c-a903-e7a7ef722778)
+
+![image](https://github.com/Nothingness-Void/Public-bing-chatgpt-proxy/assets/55913486/cc76f8f1-87b9-4725-9342-f6b5c6ea2a29)
+
+# 前半段为未更新cookie时的对话，后半段为更新cookie后的对话（其余配置均不变）。
+
+
+
 
 Bing接入点也可直接访问
 
