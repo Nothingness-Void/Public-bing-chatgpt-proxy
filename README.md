@@ -3,7 +3,7 @@
 
 ### OpenAI接入点如下
 
-`https://fakeopen.nvoid.live/chatgpt/backend-api/`
+`https://fakeopen.nvoid.live/chatgpt/backend-api/`  
 <br>`https://fakeopen.nvoid.games/chatgpt/backend-api/`
 
 直接复制，不要改东西
