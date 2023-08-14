@@ -12,9 +12,9 @@
 
 `wss://ai.nothingnessvoid.tech/sydney/ChatHub` **暂时挂了，过几天看看能不呢修**
 
-`wss://bing.nvoid.live/sydney/ChatHub` 
+`wss://bing.nvoid.live/sydney/ChatHub` **也挂了，感觉最近微软在禁新加坡地区**
 
-`wss://sgp.nvoid.live/sydney/ChatHub` **也挂了，感觉最近微软在禁新加坡地区**
+`wss://sgp.nvoid.live/sydney/ChatHub` 
 
 
 
