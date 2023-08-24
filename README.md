@@ -1,6 +1,8 @@
 # Public-bing-chatgpt-proxy
 ## 公用的bing/chatgpt接入点
 
+#不能用提issue，看见就会修
+
 ### OpenAI接入点如下
 
 #### 网页端接入点
