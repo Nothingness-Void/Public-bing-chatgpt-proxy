@@ -7,7 +7,7 @@
 
 #### 网页端接入点
 
-`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  
+`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**
 
 `https://fakeopen.nvoid.live/chatgpt/backend-api/`  
 <br>`https://fakeopen.nvoid.games/chatgpt/backend-api/`
