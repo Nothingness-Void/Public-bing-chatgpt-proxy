@@ -8,6 +8,7 @@
 #### 网页端接入点
 
 `https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  
+
 `https://fakeopen.nvoid.live/chatgpt/backend-api/`  
 <br>`https://fakeopen.nvoid.games/chatgpt/backend-api/`
 
