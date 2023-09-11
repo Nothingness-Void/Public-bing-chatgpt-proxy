@@ -19,7 +19,7 @@
 
 ### Bing接入点如下
 
-`wss://ai.nothingnessvoid.tech/sydney/ChatHub` **又挂了**
+`wss://ai.nothingnessvoid.tech/sydney/ChatHub` **修了**
 
 `wss://bing.nvoid.live/sydney/ChatHub` **已正常可用**
 
