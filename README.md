@@ -7,14 +7,14 @@
 
 #### 网页端接入点
 
-`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**
+`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**  
 <br>`https://fakeopen.nvoid.live/chatgpt/backend-api/`  
 <br>`https://fakeopen.nvoid.games/chatgpt/backend-api/`  
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`
 
 #### API接入点  
 
-`https://proxy.nvoid.games/proxy/https://api.openai.com/v1`
+`https://proxy.nvoid.games/proxy/https://api.openai.com/v1`  
 <br>`https://proxy.nvoid.live/proxy/api.openai.com/v1`
 
 直接复制，不要改东西
