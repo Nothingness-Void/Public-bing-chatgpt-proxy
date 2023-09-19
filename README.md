@@ -21,7 +21,7 @@
 
 ### Bing接入点如下
 
-`wss://ai.nothingnessvoid.tech/sydney/ChatHub` **修了**
+`wss://bing-sgp.nothingnessvoid.top/sydney/ChatHub` **已更改，请注意**
 
 `wss://bing.nvoid.live/sydney/ChatHub` **已正常可用**
 
