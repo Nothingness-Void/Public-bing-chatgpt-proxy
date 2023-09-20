@@ -9,8 +9,8 @@
 
 #### 网页端接入点
 
-`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**  
-<br>`https://fakeopen.nvoid.live/chatgpt/backend-api/`  
+`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  
+<br>`https://fakeopen-ca.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**  
 <br>`https://fakeopen-sgp.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`
 
