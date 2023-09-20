@@ -9,10 +9,10 @@
 
 #### 网页端接入点
 
-`https://fakeopen.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-ca.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**  
 <br>`https://fakeopen-sgp.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`
+<br>`https://fakeopen-us2.nothingnessvoid.top/chatgpt/backend-api/`
 
 #### API接入点  
 
@@ -25,7 +25,7 @@
 
 `wss://bing-sgp.nothingnessvoid.top/sydney/ChatHub` **已更改，请注意**
 
-`wss://bing.nvoid.live/sydney/ChatHub` **已正常可用**
+`wss://bing-sgp2.nothingnessvoid.top/sydney/ChatHub` **已正常可用**
 
 `wss://bing.nothingnessvoid.tech/sydney/ChatHub`
 
