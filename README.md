@@ -1,7 +1,7 @@
 # Public-bing-chatgpt-proxy
 ## 公用的bing/chatgpt接入点
 
-# 不能用提issue，看见就会修
+# 不能用提issue，看见就会修，如果帮到了你，请给点一个⭐
 
 ## 最近在逐渐改为 xxx-xx.nothingnessvoid.top的域名格式 推荐使用已更改的，未更改的会在未来一周内更改
 
