@@ -27,7 +27,9 @@
 
 `wss://bing-sgp2.nothingnessvoid.top/sydney/ChatHub` **已正常可用**
 
-`wss://bing-jp.nothingnessvoid.top/sydney/ChatHub`
+`wss://bing-jp.nothingnessvoid.top/sydney/ChatHub`  
+
+`wss://bing-us.nothingnessvoid.top/sydney/ChatHub`  
 
 `wss://sgp.nvoid.live/sydney/ChatHub` 
 
