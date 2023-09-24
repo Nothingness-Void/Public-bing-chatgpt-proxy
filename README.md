@@ -13,7 +13,8 @@
 <br>`https://fakeopen-sgp.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-us2.nothingnessvoid.top/chatgpt/backend-api/`  
-<br>`https://fakeopen-jp.nothingnessvoid.top/chatgpt/backend-api/`
+<br>`https://fakeopen-jp.nothingnessvoid.top/chatgpt/backend-api/`  
+<br>`https://fakeopen-la.nothingnessvoid.top/chatgpt/backend-api/`  
 #### API接入点  
 
 `https://proxy.nvoid.games/proxy/https://api.openai.com/v1`  
