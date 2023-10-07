@@ -31,7 +31,7 @@
 
 `wss://bing-us.nothingnessvoid.top/sydney/ChatHub`  
 
-`wss://sgp.nvoid.live/sydney/ChatHub` 
+`wss://bing-us2.nothingnessvoid.top/sydney/ChatHub` 
 
 
 
