@@ -9,11 +9,14 @@
 
 #### 网页端接入点
 
-<br>`https://fakeopen-ca.nothingnessvoid.top/chatgpt/backend-api/`  **推荐使用，这个服务器配置好点**  
-<br>`https://fakeopen-sgp.nothingnessvoid.top/chatgpt/backend-api/`  
+<br>`https://fakeopen-ca.nvoid.me/backend-api/`  **推荐使用，这个服务器配置好点**  
+<br>`https://fakeopen-ca2.nvoid.me/backend-api/`  
+
+**以下均不可用**
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`   
 <br>`https://fakeopen-jp.nothingnessvoid.top/chatgpt/backend-api/`  
 <br>`https://fakeopen-la.nothingnessvoid.top/chatgpt/backend-api/`  
+
 #### API接入点  
 
 `https://proxy.nvoid.games/proxy/https://api.openai.com/v1`  
