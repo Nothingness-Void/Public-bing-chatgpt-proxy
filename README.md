@@ -18,6 +18,7 @@
 <br>`https://fakeopen-jp.nvoid.pp.ua/backend-api/`  
 <br>`https://fakeopen-jp2.nvoid.pp.ua/backend-api`  
 <br>`https://fakeopen-ca.nothingnessvoid.top/chatgpt/backend-api/`   
+<br>`https://fakeopen-ca2.nothingnessvoid.top/chatgpt/backend-api/`
 
 **以下均不可用**
 <br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`
