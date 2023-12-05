@@ -9,6 +9,7 @@
 
 **无法使用账号密码登录,需要过验证码，目前无解决方案**  
 
+## 接入点运行状态 `https://status.nvoid.me/status/bot-proxy`
 
 #### 网页端接入点
 
