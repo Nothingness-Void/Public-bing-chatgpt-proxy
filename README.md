@@ -3,7 +3,7 @@
 
 # 不能用提issue，看见就会修，如果帮到了你，请给点一个⭐
 
-## OpenAI官方又严了，现在3.5聊天也会出现验证码，现在对接了接码平台，但是不知道什么时候失效 如果挂了请不要奇怪
+## 最近nothingnessvoid.top域名要到期了 转为nvoid.top
 
 ### OpenAI接入点如下 
 
@@ -21,9 +21,6 @@
 <br>`https://fakeopen-ca.nvoid.top/chatgpt/backend-api/`   
 <br>`https://fakeopen-ca2.nvoid.top/chatgpt/backend-api/`
 
-**以下均不可用**
-<br>`https://fakeopen-us.nothingnessvoid.top/chatgpt/backend-api/`
-
 #### API接入点  
 
 `https://proxy.nvoid.games/proxy/https://api.openai.com/v1`  
@@ -33,15 +30,15 @@
 
 ### Bing接入点如下
 
-`wss://bing-sgp.nothingnessvoid.top/sydney/ChatHub` **已更改，请注意**
+`wss://bing-sgp.nvoid.top/sydney/ChatHub` **已更改，请注意**
 
-`wss://bing-sgp2.nothingnessvoid.top/sydney/ChatHub` **已正常可用**
+`wss://bing-sgp2.nvoid.top/sydney/ChatHub` **已正常可用**
 
-`wss://bing-jp.nothingnessvoid.top/sydney/ChatHub`  
+`wss://bing-jp.nvoid.top/sydney/ChatHub`  
 
-`wss://bing-us.nothingnessvoid.top/sydney/ChatHub`  
+`wss://bing-us.novoid.top/sydney/ChatHub`  
 
-`wss://bing-us2.nothingnessvoid.top/sydney/ChatHub` 
+`wss://bing-us2.nvoid.top/sydney/ChatHub` 
 
 
 
