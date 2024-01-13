@@ -36,7 +36,7 @@
 
 `wss://bing-jp.nvoid.top/sydney/ChatHub`  
 
-`wss://bing-us.novoid.top/sydney/ChatHub`  
+`wss://bing-us.nvoid.top/sydney/ChatHub`  
 
 `wss://bing-us2.nvoid.top/sydney/ChatHub` 
 
