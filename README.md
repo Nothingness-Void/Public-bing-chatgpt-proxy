@@ -3,6 +3,8 @@
 
 # 不能用提issue，看见就会修，如果帮到了你，请给点一个⭐
 
+# 请注意存在域名变动
+
 ## 最近nothingnessvoid.top域名要到期了 转为nvoid.top
 
 ### OpenAI接入点如下 
